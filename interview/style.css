@@ -1,0 +1,30 @@
+
+.title {
+	height: 60px;
+	background-color: #cdcdcd;
+	margin-bottom: 20px;
+	font-size: 16px;
+	text-align: center;
+	line-height: 60px;
+}
+
+.list {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.list-item {
+	margin-bottom: 10px;
+	padding-bottom: 20px;
+	border-bottom: 1px dashed #d1d1d1;
+}
+
+.list-item h2 {
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+
+.list-item p {
+	font-size: 14px;
+	color: #666;
+}
